@@ -9,7 +9,7 @@
         "base_height": 0,
         "height": 0.1,
         "indoor": "floor",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -403,7 +403,7 @@
         "base_height": 0,
         "height": 0.1,
         "indoor": "floor",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -469,7 +469,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -507,7 +507,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -549,7 +549,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "well",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -603,7 +603,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "well",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -657,7 +657,7 @@
         "base_height": 3,
         "height": 4,
         "indoor": "ceiling",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -701,10 +701,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4,
-        "colour": "white",
+        "color": "white",
         "height": 4.3,
         "indoor": "ceiling",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -766,7 +766,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "well",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1198,10 +1198,10 @@
       "properties": {
         "area": "yes",
         "base_height": 1.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 2,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1241,10 +1241,10 @@
       "properties": {
         "area": "yes",
         "base_height": 0,
-        "colour": "gray",
+        "color": "gray",
         "height": 0.2,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1280,10 +1280,10 @@
       "properties": {
         "area": "yes",
         "base_height": 0.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 0.4,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1319,10 +1319,10 @@
       "properties": {
         "area": "yes",
         "base_height": 0.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 0.6,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1358,10 +1358,10 @@
       "properties": {
         "area": "yes",
         "base_height": 0.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 0.8,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1397,10 +1397,10 @@
       "properties": {
         "area": "yes",
         "base_height": 0.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 1,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1436,10 +1436,10 @@
       "properties": {
         "area": "yes",
         "base_height": 1,
-        "colour": "gray",
+        "color": "gray",
         "height": 1.2,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1475,10 +1475,10 @@
       "properties": {
         "area": "yes",
         "base_height": 1.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 1.4,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1514,10 +1514,10 @@
       "properties": {
         "area": "yes",
         "base_height": 1.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 1.6,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1553,10 +1553,10 @@
       "properties": {
         "area": "yes",
         "base_height": 1.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 1.8,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1592,10 +1592,10 @@
       "properties": {
         "area": "yes",
         "base_height": 2,
-        "colour": "gray",
+        "color": "gray",
         "height": 2.2,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1631,10 +1631,10 @@
       "properties": {
         "area": "yes",
         "base_height": 2.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 2.4,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1670,10 +1670,10 @@
       "properties": {
         "area": "yes",
         "base_height": 2.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 2.6,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1709,10 +1709,10 @@
       "properties": {
         "area": "yes",
         "base_height": 2.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 2.8,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1748,10 +1748,10 @@
       "properties": {
         "area": "yes",
         "base_height": 2.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 3,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1787,10 +1787,10 @@
       "properties": {
         "area": "yes",
         "base_height": 3,
-        "colour": "gray",
+        "color": "gray",
         "height": 3.2,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1826,10 +1826,10 @@
       "properties": {
         "area": "yes",
         "base_height": 3.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 3.4,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1865,10 +1865,10 @@
       "properties": {
         "area": "yes",
         "base_height": 3.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 3.6,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1904,10 +1904,10 @@
       "properties": {
         "area": "yes",
         "base_height": 3.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 3.8,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1943,10 +1943,10 @@
       "properties": {
         "area": "yes",
         "base_height": 1.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 2,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -1986,10 +1986,10 @@
       "properties": {
         "area": "yes",
         "base_height": 1.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 1.8,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2025,10 +2025,10 @@
       "properties": {
         "area": "yes",
         "base_height": 1.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 1.6,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2064,10 +2064,10 @@
       "properties": {
         "area": "yes",
         "base_height": 1.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 1.4,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2103,10 +2103,10 @@
       "properties": {
         "area": "yes",
         "base_height": 1,
-        "colour": "gray",
+        "color": "gray",
         "height": 1.2,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2142,10 +2142,10 @@
       "properties": {
         "area": "yes",
         "base_height": 0.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 1,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2181,10 +2181,10 @@
       "properties": {
         "area": "yes",
         "base_height": 0.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 0.8,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2220,10 +2220,10 @@
       "properties": {
         "area": "yes",
         "base_height": 0.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 0.6,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2259,10 +2259,10 @@
       "properties": {
         "area": "yes",
         "base_height": 0.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 0.4,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2298,10 +2298,10 @@
       "properties": {
         "area": "yes",
         "base_height": 0,
-        "colour": "gray",
+        "color": "gray",
         "height": 0.2,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2337,10 +2337,10 @@
       "properties": {
         "area": "yes",
         "base_height": 2,
-        "colour": "gray",
+        "color": "gray",
         "height": 2.2,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2376,10 +2376,10 @@
       "properties": {
         "area": "yes",
         "base_height": 2.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 2.4,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2415,10 +2415,10 @@
       "properties": {
         "area": "yes",
         "base_height": 2.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 2.6,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2454,10 +2454,10 @@
       "properties": {
         "area": "yes",
         "base_height": 2.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 2.8,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2493,10 +2493,10 @@
       "properties": {
         "area": "yes",
         "base_height": 2.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 3,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2532,10 +2532,10 @@
       "properties": {
         "area": "yes",
         "base_height": 3,
-        "colour": "gray",
+        "color": "gray",
         "height": 3.2,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2571,10 +2571,10 @@
       "properties": {
         "area": "yes",
         "base_height": 3.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 3.4,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2610,10 +2610,10 @@
       "properties": {
         "area": "yes",
         "base_height": 3.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 3.6,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2649,10 +2649,10 @@
       "properties": {
         "area": "yes",
         "base_height": 3.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 3.8,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2690,7 +2690,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2728,7 +2728,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2766,7 +2766,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2804,7 +2804,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2842,7 +2842,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "well",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2880,7 +2880,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2918,7 +2918,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2956,7 +2956,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -2994,7 +2994,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3032,7 +3032,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3070,7 +3070,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3108,7 +3108,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3146,7 +3146,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3184,7 +3184,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3222,7 +3222,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3260,7 +3260,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3298,7 +3298,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3336,7 +3336,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3374,7 +3374,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3412,7 +3412,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3450,7 +3450,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3488,7 +3488,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3526,7 +3526,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3564,7 +3564,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3602,7 +3602,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3640,7 +3640,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3678,7 +3678,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3716,7 +3716,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3754,7 +3754,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3792,7 +3792,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3828,10 +3828,10 @@
       "properties": {
         "area": "yes",
         "base_height": 1.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 2,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3871,10 +3871,10 @@
       "properties": {
         "area": "yes",
         "base_height": 1.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 1.8,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3910,10 +3910,10 @@
       "properties": {
         "area": "yes",
         "base_height": 1.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 1.6,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3949,10 +3949,10 @@
       "properties": {
         "area": "yes",
         "base_height": 1.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 1.4,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -3988,10 +3988,10 @@
       "properties": {
         "area": "yes",
         "base_height": 1,
-        "colour": "gray",
+        "color": "gray",
         "height": 1.2,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4027,10 +4027,10 @@
       "properties": {
         "area": "yes",
         "base_height": 0.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 1,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4066,10 +4066,10 @@
       "properties": {
         "area": "yes",
         "base_height": 0.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 0.8,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4105,10 +4105,10 @@
       "properties": {
         "area": "yes",
         "base_height": 0.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 0.6,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4144,10 +4144,10 @@
       "properties": {
         "area": "yes",
         "base_height": 0.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 0,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4183,10 +4183,10 @@
       "properties": {
         "area": "yes",
         "base_height": 2,
-        "colour": "gray",
+        "color": "gray",
         "height": 2.2,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4222,10 +4222,10 @@
       "properties": {
         "area": "yes",
         "base_height": 2.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 2.6,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4261,10 +4261,10 @@
       "properties": {
         "area": "yes",
         "base_height": 2.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 2.8,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4300,10 +4300,10 @@
       "properties": {
         "area": "yes",
         "base_height": 2.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 3,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4339,10 +4339,10 @@
       "properties": {
         "area": "yes",
         "base_height": 3,
-        "colour": "gray",
+        "color": "gray",
         "height": 3.2,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4378,10 +4378,10 @@
       "properties": {
         "area": "yes",
         "base_height": 3.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 3.4,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4417,10 +4417,10 @@
       "properties": {
         "area": "yes",
         "base_height": 3.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 3.6,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4456,10 +4456,10 @@
       "properties": {
         "area": "yes",
         "base_height": 3.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 3.8,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4497,7 +4497,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "well",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4551,7 +4551,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "well",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4781,7 +4781,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4819,7 +4819,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4857,7 +4857,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4895,7 +4895,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4933,7 +4933,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -4971,7 +4971,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -5009,7 +5009,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -5047,7 +5047,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -5085,7 +5085,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -5123,7 +5123,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -5161,7 +5161,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -5199,7 +5199,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -5237,7 +5237,7 @@
         "base_height": 0,
         "height": 4,
         "indoor": "Pillar",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -5275,7 +5275,7 @@
         "base_height": 4,
         "height": 4.1,
         "indoor": "floor",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -5643,10 +5643,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4,
-        "colour": "gray",
+        "color": "gray",
         "height": 4.2,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -5682,10 +5682,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 4.4,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -5721,10 +5721,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 4.6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -5760,10 +5760,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 4.8,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -5799,10 +5799,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 5,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -5838,10 +5838,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4,
-        "colour": "gray",
+        "color": "gray",
         "height": 5.2,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -5877,10 +5877,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 5.4,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -5916,10 +5916,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 5.6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -5955,10 +5955,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 5.8,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -5994,10 +5994,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6037,10 +6037,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6,
-        "colour": "gray",
+        "color": "gray",
         "height": 6.2,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6076,10 +6076,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 6.4,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6115,10 +6115,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 6.6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6154,10 +6154,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 6.8,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6193,10 +6193,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 7,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6232,10 +6232,10 @@
       "properties": {
         "area": "yes",
         "base_height": 7,
-        "colour": "gray",
+        "color": "gray",
         "height": 7.2,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6271,10 +6271,10 @@
       "properties": {
         "area": "yes",
         "base_height": 7.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 7.4,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6310,10 +6310,10 @@
       "properties": {
         "area": "yes",
         "base_height": 7.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 7.6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6349,10 +6349,10 @@
       "properties": {
         "area": "yes",
         "base_height": 7.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 7.8,
         "indoor": "steps",
-        "level": "1"
+        "level": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -6388,10 +6388,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6431,10 +6431,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4,
-        "colour": "gray",
+        "color": "gray",
         "height": 4.2,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6470,10 +6470,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 4.4,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6509,10 +6509,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 4.6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6548,10 +6548,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 4.8,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6587,10 +6587,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 5,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6626,10 +6626,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5,
-        "colour": "gray",
+        "color": "gray",
         "height": 5.2,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6665,10 +6665,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 5.4,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6704,10 +6704,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 5.6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6743,10 +6743,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 5.8,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6782,10 +6782,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6,
-        "colour": "gray",
+        "color": "gray",
         "height": 6.2,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6821,10 +6821,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 6.4,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6860,10 +6860,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 6.6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6899,10 +6899,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 6.8,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6938,10 +6938,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 7,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -6977,10 +6977,10 @@
       "properties": {
         "area": "yes",
         "base_height": 7,
-        "colour": "gray",
+        "color": "gray",
         "height": 7.2,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7016,10 +7016,10 @@
       "properties": {
         "area": "yes",
         "base_height": 7.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 7.4,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7055,10 +7055,10 @@
       "properties": {
         "area": "yes",
         "base_height": 7.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 7.6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7094,10 +7094,10 @@
       "properties": {
         "area": "yes",
         "base_height": 7.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 7.8,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7133,10 +7133,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7176,10 +7176,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 5.8,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7215,10 +7215,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 5.6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7254,10 +7254,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 5.4,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7293,10 +7293,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5,
-        "colour": "gray",
+        "color": "gray",
         "height": 5.2,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7332,10 +7332,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 5,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7371,10 +7371,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 4.8,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7410,10 +7410,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 4.6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7449,10 +7449,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 4.4,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7488,10 +7488,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4,
-        "colour": "gray",
+        "color": "gray",
         "height": 4.2,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7527,10 +7527,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6,
-        "colour": "gray",
+        "color": "gray",
         "height": 6.2,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7566,10 +7566,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 6.4,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7605,10 +7605,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 6.6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7644,10 +7644,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 6.8,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7683,10 +7683,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 7,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7722,10 +7722,10 @@
       "properties": {
         "area": "yes",
         "base_height": 7,
-        "colour": "gray",
+        "color": "gray",
         "height": 7.2,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7761,10 +7761,10 @@
       "properties": {
         "area": "yes",
         "base_height": 7.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 7.4,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7800,10 +7800,10 @@
       "properties": {
         "area": "yes",
         "base_height": 7.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 7.6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7839,10 +7839,10 @@
       "properties": {
         "area": "yes",
         "base_height": 7.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 7.8,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7880,7 +7880,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7918,7 +7918,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7960,7 +7960,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -7998,7 +7998,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8036,7 +8036,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8074,7 +8074,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8112,7 +8112,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8150,7 +8150,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8188,7 +8188,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8226,7 +8226,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8264,7 +8264,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8302,7 +8302,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8340,7 +8340,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8378,7 +8378,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8420,7 +8420,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8458,7 +8458,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8496,7 +8496,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8534,7 +8534,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8572,7 +8572,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8610,7 +8610,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8652,7 +8652,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8690,7 +8690,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8728,7 +8728,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8764,10 +8764,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8807,10 +8807,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 5.8,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8846,10 +8846,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 5.6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8885,10 +8885,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 5.4,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8924,10 +8924,10 @@
       "properties": {
         "area": "yes",
         "base_height": 5,
-        "colour": "gray",
+        "color": "gray",
         "height": 5.2,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -8963,10 +8963,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 5,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9002,10 +9002,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 4.8,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9041,10 +9041,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 4.6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9080,10 +9080,10 @@
       "properties": {
         "area": "yes",
         "base_height": 4.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 4,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9119,10 +9119,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6,
-        "colour": "gray",
+        "color": "gray",
         "height": 6.2,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9158,10 +9158,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 6.6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9197,10 +9197,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 6.8,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9236,10 +9236,10 @@
       "properties": {
         "area": "yes",
         "base_height": 6.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 7,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9275,10 +9275,10 @@
       "properties": {
         "area": "yes",
         "base_height": 7,
-        "colour": "gray",
+        "color": "gray",
         "height": 7.2,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9314,10 +9314,10 @@
       "properties": {
         "area": "yes",
         "base_height": 7.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 7.4,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9353,10 +9353,10 @@
       "properties": {
         "area": "yes",
         "base_height": 7.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 7.6,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9392,10 +9392,10 @@
       "properties": {
         "area": "yes",
         "base_height": 7.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 7.8,
         "indoor": "steps",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9433,7 +9433,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9479,7 +9479,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9733,7 +9733,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9771,7 +9771,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9809,7 +9809,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9847,7 +9847,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9885,7 +9885,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9923,7 +9923,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9961,7 +9961,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -9999,7 +9999,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10037,7 +10037,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10075,7 +10075,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10113,7 +10113,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10151,7 +10151,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10189,7 +10189,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10227,7 +10227,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10265,7 +10265,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10303,7 +10303,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10341,7 +10341,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10383,7 +10383,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10421,7 +10421,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10459,7 +10459,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10505,7 +10505,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10547,7 +10547,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10585,7 +10585,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10623,7 +10623,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10661,7 +10661,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10699,7 +10699,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10737,7 +10737,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10799,7 +10799,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10837,7 +10837,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10875,7 +10875,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10925,7 +10925,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -10963,7 +10963,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "Pillar",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11001,7 +11001,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11039,7 +11039,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11077,7 +11077,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11115,7 +11115,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11153,7 +11153,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11199,7 +11199,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11301,7 +11301,7 @@
         "base_height": 4,
         "height": 6,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11363,7 +11363,7 @@
         "base_height": 4,
         "height": 6,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11429,7 +11429,7 @@
         "base_height": 4,
         "height": 6,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11479,7 +11479,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11557,7 +11557,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11595,7 +11595,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11665,7 +11665,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11703,7 +11703,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11773,7 +11773,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11811,7 +11811,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11881,7 +11881,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11919,7 +11919,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -11989,7 +11989,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12027,7 +12027,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12097,7 +12097,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12135,7 +12135,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12209,7 +12209,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12247,7 +12247,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12321,7 +12321,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12359,7 +12359,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12433,7 +12433,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12471,7 +12471,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12541,7 +12541,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12579,7 +12579,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12649,7 +12649,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12687,7 +12687,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12757,7 +12757,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12795,7 +12795,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12865,7 +12865,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12903,7 +12903,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -12941,7 +12941,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13011,7 +13011,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13049,7 +13049,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13119,7 +13119,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13157,7 +13157,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13227,7 +13227,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13265,7 +13265,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13303,7 +13303,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13341,7 +13341,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13379,7 +13379,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13417,7 +13417,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13455,7 +13455,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13493,7 +13493,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13531,7 +13531,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13561,7 +13561,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13671,7 +13671,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13725,7 +13725,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13771,7 +13771,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13813,7 +13813,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13863,7 +13863,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13909,7 +13909,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13947,7 +13947,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -13985,7 +13985,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -14023,7 +14023,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -14061,7 +14061,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -14099,7 +14099,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -14137,7 +14137,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -14175,7 +14175,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -14213,7 +14213,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -14267,7 +14267,7 @@
         "base_height": 4,
         "height": 4.1,
         "indoor": "floor",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -14305,7 +14305,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -14323,7 +14323,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -14341,7 +14341,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -14359,7 +14359,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -14377,7 +14377,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -14395,7 +14395,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -14413,7 +14413,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -14431,7 +14431,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -14449,7 +14449,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -14467,7 +14467,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -14485,7 +14485,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -14503,7 +14503,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -14521,7 +14521,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -14539,7 +14539,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -14557,7 +14557,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -14575,7 +14575,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -14593,7 +14593,7 @@
         "base_height": 8,
         "height": 8.1,
         "indoor": "floor",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -14973,10 +14973,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8,
-        "colour": "gray",
+        "color": "gray",
         "height": 8.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15012,10 +15012,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 8.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15051,10 +15051,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 8.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15090,10 +15090,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 8.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15129,10 +15129,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 9,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15168,10 +15168,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15207,10 +15207,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15246,10 +15246,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15285,10 +15285,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15324,10 +15324,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 10,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15367,10 +15367,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15406,10 +15406,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15445,10 +15445,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15484,10 +15484,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15523,10 +15523,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 11,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15562,10 +15562,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15601,10 +15601,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15640,10 +15640,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15679,10 +15679,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15718,10 +15718,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 10,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15761,10 +15761,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8,
-        "colour": "gray",
+        "color": "gray",
         "height": 8.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15800,10 +15800,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 8.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15839,10 +15839,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 8.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15878,10 +15878,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 8.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15917,10 +15917,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 9,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15956,10 +15956,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -15995,10 +15995,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16034,10 +16034,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16073,10 +16073,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16112,10 +16112,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16151,10 +16151,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16190,10 +16190,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16229,10 +16229,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16268,10 +16268,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 11,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16307,10 +16307,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16346,10 +16346,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16385,10 +16385,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16424,10 +16424,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16463,10 +16463,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 10,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16506,10 +16506,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16545,10 +16545,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16584,10 +16584,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16623,10 +16623,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16662,10 +16662,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 9,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16701,10 +16701,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 8.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16740,10 +16740,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 8.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16779,10 +16779,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 8.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16818,10 +16818,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8,
-        "colour": "gray",
+        "color": "gray",
         "height": 8.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16857,10 +16857,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16896,10 +16896,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16935,10 +16935,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -16974,10 +16974,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17013,10 +17013,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 11,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17052,10 +17052,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17091,10 +17091,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17130,10 +17130,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17169,10 +17169,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17210,7 +17210,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17248,7 +17248,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17290,7 +17290,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17328,7 +17328,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17366,7 +17366,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17404,7 +17404,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17442,7 +17442,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17480,7 +17480,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17522,7 +17522,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17560,7 +17560,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17598,7 +17598,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17636,7 +17636,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17674,7 +17674,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17712,7 +17712,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17754,7 +17754,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17792,7 +17792,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17830,7 +17830,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17868,7 +17868,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17906,7 +17906,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17944,7 +17944,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -17986,7 +17986,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18024,7 +18024,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18062,7 +18062,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18098,10 +18098,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 10,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18141,10 +18141,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18180,10 +18180,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18219,10 +18219,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18258,10 +18258,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18297,10 +18297,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 9,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18336,10 +18336,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 8.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18375,10 +18375,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 8.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18414,10 +18414,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18453,10 +18453,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18492,10 +18492,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18531,10 +18531,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18570,10 +18570,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 11,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18609,10 +18609,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18648,10 +18648,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18687,10 +18687,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18726,10 +18726,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18767,7 +18767,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -18813,7 +18813,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19075,7 +19075,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19113,7 +19113,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19151,7 +19151,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19189,7 +19189,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19227,7 +19227,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19265,7 +19265,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19303,7 +19303,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19341,7 +19341,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19379,7 +19379,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19417,7 +19417,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19455,7 +19455,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19493,7 +19493,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19531,7 +19531,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19569,7 +19569,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19607,7 +19607,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19645,7 +19645,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19683,7 +19683,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19725,7 +19725,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19763,7 +19763,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19805,7 +19805,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19843,7 +19843,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19881,7 +19881,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19919,7 +19919,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19957,7 +19957,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -19995,7 +19995,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20045,7 +20045,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20083,7 +20083,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20121,7 +20121,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20159,7 +20159,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20197,7 +20197,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20235,7 +20235,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20273,7 +20273,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -20319,7 +20319,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -20377,7 +20377,7 @@
         "base_height": 8,
         "height": 10,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -20439,7 +20439,7 @@
         "base_height": 8,
         "height": 10,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20505,7 +20505,7 @@
         "base_height": 8,
         "height": 10,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20555,7 +20555,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20633,7 +20633,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20671,7 +20671,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20741,7 +20741,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20779,7 +20779,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20849,7 +20849,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20887,7 +20887,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20957,7 +20957,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -20995,7 +20995,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21065,7 +21065,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21103,7 +21103,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21173,7 +21173,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21211,7 +21211,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21285,7 +21285,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21323,7 +21323,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21397,7 +21397,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21435,7 +21435,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21509,7 +21509,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21547,7 +21547,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21617,7 +21617,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21655,7 +21655,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21725,7 +21725,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21763,7 +21763,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21833,7 +21833,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21871,7 +21871,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21941,7 +21941,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -21979,7 +21979,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22017,7 +22017,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22087,7 +22087,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22125,7 +22125,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22195,7 +22195,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22233,7 +22233,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22303,7 +22303,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22345,7 +22345,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22383,7 +22383,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22421,7 +22421,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22459,7 +22459,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22497,7 +22497,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22535,7 +22535,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22573,7 +22573,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22611,7 +22611,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -22641,7 +22641,7 @@
         "base_height": 8,
         "height": 10,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22751,7 +22751,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22805,7 +22805,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22851,7 +22851,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22893,7 +22893,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22939,7 +22939,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -22977,7 +22977,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -23015,7 +23015,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -23053,7 +23053,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -23091,7 +23091,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -23129,7 +23129,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -23167,7 +23167,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -23205,7 +23205,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -23243,7 +23243,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -23297,7 +23297,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -23363,7 +23363,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -23401,7 +23401,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -23459,7 +23459,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -23497,7 +23497,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -23547,7 +23547,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -23585,7 +23585,7 @@
         "base_height": 8,
         "height": 8.1,
         "indoor": "ceiling",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -23623,7 +23623,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -23641,7 +23641,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -23659,7 +23659,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -23677,7 +23677,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -23695,7 +23695,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -23713,7 +23713,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -23731,7 +23731,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -23749,7 +23749,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -23767,7 +23767,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -23785,7 +23785,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -23803,7 +23803,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -23821,7 +23821,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -23839,7 +23839,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -23857,7 +23857,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -23875,7 +23875,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -23893,7 +23893,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -23911,7 +23911,7 @@
         "base_height": 12,
         "height": 12.1,
         "indoor": "floor",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24291,10 +24291,10 @@
       "properties": {
         "area": "yes",
         "base_height": 12,
-        "colour": "gray",
+        "color": "gray",
         "height": 12.2,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24330,10 +24330,10 @@
       "properties": {
         "area": "yes",
         "base_height": 12.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 12.4,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24369,10 +24369,10 @@
       "properties": {
         "area": "yes",
         "base_height": 12.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 12.6,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24408,10 +24408,10 @@
       "properties": {
         "area": "yes",
         "base_height": 12.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 12.8,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24447,10 +24447,10 @@
       "properties": {
         "area": "yes",
         "base_height": 12.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 13,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24486,10 +24486,10 @@
       "properties": {
         "area": "yes",
         "base_height": 13,
-        "colour": "gray",
+        "color": "gray",
         "height": 13.2,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24525,10 +24525,10 @@
       "properties": {
         "area": "yes",
         "base_height": 13.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 13.4,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24564,10 +24564,10 @@
       "properties": {
         "area": "yes",
         "base_height": 13.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 13.6,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24603,10 +24603,10 @@
       "properties": {
         "area": "yes",
         "base_height": 13.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 13.8,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24642,10 +24642,10 @@
       "properties": {
         "area": "yes",
         "base_height": 13.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 14,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24685,10 +24685,10 @@
       "properties": {
         "area": "yes",
         "base_height": 14,
-        "colour": "gray",
+        "color": "gray",
         "height": 14.2,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24724,10 +24724,10 @@
       "properties": {
         "area": "yes",
         "base_height": 14.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 14.4,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24763,10 +24763,10 @@
       "properties": {
         "area": "yes",
         "base_height": 14.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 14.6,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24802,10 +24802,10 @@
       "properties": {
         "area": "yes",
         "base_height": 14.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 14.8,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24841,10 +24841,10 @@
       "properties": {
         "area": "yes",
         "base_height": 14.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 15,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24880,10 +24880,10 @@
       "properties": {
         "area": "yes",
         "base_height": 15,
-        "colour": "gray",
+        "color": "gray",
         "height": 15.2,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24919,10 +24919,10 @@
       "properties": {
         "area": "yes",
         "base_height": 15.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 15.4,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24958,10 +24958,10 @@
       "properties": {
         "area": "yes",
         "base_height": 15.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 15.6,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -24997,10 +24997,10 @@
       "properties": {
         "area": "yes",
         "base_height": 15.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 15.8,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25036,10 +25036,10 @@
       "properties": {
         "area": "yes",
         "base_height": 13.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 14,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25079,10 +25079,10 @@
       "properties": {
         "area": "yes",
         "base_height": 12,
-        "colour": "gray",
+        "color": "gray",
         "height": 12.2,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25118,10 +25118,10 @@
       "properties": {
         "area": "yes",
         "base_height": 12.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 12.6,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25157,10 +25157,10 @@
       "properties": {
         "area": "yes",
         "base_height": 12.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 12.6,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25196,10 +25196,10 @@
       "properties": {
         "area": "yes",
         "base_height": 12.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 12.8,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25235,10 +25235,10 @@
       "properties": {
         "area": "yes",
         "base_height": 12.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 13,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25274,10 +25274,10 @@
       "properties": {
         "area": "yes",
         "base_height": 13,
-        "colour": "gray",
+        "color": "gray",
         "height": 13.2,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25313,10 +25313,10 @@
       "properties": {
         "area": "yes",
         "base_height": 13.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 13.4,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25352,10 +25352,10 @@
       "properties": {
         "area": "yes",
         "base_height": 13.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 13.6,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25391,10 +25391,10 @@
       "properties": {
         "area": "yes",
         "base_height": 13.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 13.8,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25430,10 +25430,10 @@
       "properties": {
         "area": "yes",
         "base_height": 14,
-        "colour": "gray",
+        "color": "gray",
         "height": 14.2,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25469,10 +25469,10 @@
       "properties": {
         "area": "yes",
         "base_height": 14.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 14.4,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25508,10 +25508,10 @@
       "properties": {
         "area": "yes",
         "base_height": 14.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 14.6,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25547,10 +25547,10 @@
       "properties": {
         "area": "yes",
         "base_height": 14.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 14.8,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25586,10 +25586,10 @@
       "properties": {
         "area": "yes",
         "base_height": 14.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 15,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25625,10 +25625,10 @@
       "properties": {
         "area": "yes",
         "base_height": 15,
-        "colour": "gray",
+        "color": "gray",
         "height": 15.2,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25664,10 +25664,10 @@
       "properties": {
         "area": "yes",
         "base_height": 15.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 15.4,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25703,10 +25703,10 @@
       "properties": {
         "area": "yes",
         "base_height": 15.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 15.6,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25742,10 +25742,10 @@
       "properties": {
         "area": "yes",
         "base_height": 15.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 15.8,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -25781,10 +25781,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 10,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -25824,10 +25824,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -25863,10 +25863,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -25902,10 +25902,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -25941,10 +25941,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -25980,10 +25980,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 9,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26019,10 +26019,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 8.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26058,10 +26058,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 8.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26097,10 +26097,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 8.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26136,10 +26136,10 @@
       "properties": {
         "area": "yes",
         "base_height": 8,
-        "colour": "gray",
+        "color": "gray",
         "height": 8.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26175,10 +26175,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26214,10 +26214,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26253,10 +26253,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26292,10 +26292,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 10.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26331,10 +26331,10 @@
       "properties": {
         "area": "yes",
         "base_height": 10.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 11,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26370,10 +26370,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26409,10 +26409,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26448,10 +26448,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26487,10 +26487,10 @@
       "properties": {
         "area": "yes",
         "base_height": 11.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 11.8,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26528,7 +26528,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "Pillar",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -26566,7 +26566,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "Pillar",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -26612,7 +26612,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26650,7 +26650,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "Pillar",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -26692,7 +26692,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "Pillar",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -26730,7 +26730,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26768,7 +26768,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26806,7 +26806,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26844,7 +26844,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26882,7 +26882,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26924,7 +26924,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -26962,7 +26962,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -27000,7 +27000,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -27038,7 +27038,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -27076,7 +27076,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -27114,7 +27114,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -27156,7 +27156,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -27194,7 +27194,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -27232,7 +27232,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -27268,10 +27268,10 @@
       "properties": {
         "area": "yes",
         "base_height": 13.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 14,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -27311,10 +27311,10 @@
       "properties": {
         "area": "yes",
         "base_height": 13.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 13.8,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -27350,10 +27350,10 @@
       "properties": {
         "area": "yes",
         "base_height": 13.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 13.6,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -27389,10 +27389,10 @@
       "properties": {
         "area": "yes",
         "base_height": 9.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 9.4,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -27428,10 +27428,10 @@
       "properties": {
         "area": "yes",
         "base_height": 13,
-        "colour": "gray",
+        "color": "gray",
         "height": 13.2,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -27467,10 +27467,10 @@
       "properties": {
         "area": "yes",
         "base_height": 12.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 13,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -27506,10 +27506,10 @@
       "properties": {
         "area": "yes",
         "base_height": 12.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 12.8,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -27545,10 +27545,10 @@
       "properties": {
         "area": "yes",
         "base_height": 12.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 12.6,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -27584,10 +27584,10 @@
       "properties": {
         "area": "yes",
         "base_height": 12,
-        "colour": "gray",
+        "color": "gray",
         "height": 12.2,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -27623,10 +27623,10 @@
       "properties": {
         "area": "yes",
         "base_height": 14,
-        "colour": "gray",
+        "color": "gray",
         "height": 14.2,
         "indoor": "steps",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -27662,10 +27662,10 @@
       "properties": {
         "area": "yes",
         "base_height": 14.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 14.6,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -27701,10 +27701,10 @@
       "properties": {
         "area": "yes",
         "base_height": 14.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 14.8,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -27740,10 +27740,10 @@
       "properties": {
         "area": "yes",
         "base_height": 14.8,
-        "colour": "gray",
+        "color": "gray",
         "height": 15,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -27779,10 +27779,10 @@
       "properties": {
         "area": "yes",
         "base_height": 15,
-        "colour": "gray",
+        "color": "gray",
         "height": 15.2,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -27818,10 +27818,10 @@
       "properties": {
         "area": "yes",
         "base_height": 15.2,
-        "colour": "gray",
+        "color": "gray",
         "height": 15.4,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -27857,10 +27857,10 @@
       "properties": {
         "area": "yes",
         "base_height": 15.4,
-        "colour": "gray",
+        "color": "gray",
         "height": 15.6,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -27896,10 +27896,10 @@
       "properties": {
         "area": "yes",
         "base_height": 15.6,
-        "colour": "gray",
+        "color": "gray",
         "height": 15.8,
         "indoor": "steps",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -27937,7 +27937,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -27983,7 +27983,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28245,7 +28245,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28283,7 +28283,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28321,7 +28321,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28359,7 +28359,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28397,7 +28397,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28435,7 +28435,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28473,7 +28473,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28511,7 +28511,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28549,7 +28549,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28587,7 +28587,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28625,7 +28625,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28663,7 +28663,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28701,7 +28701,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "Pillar",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -28739,7 +28739,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28781,7 +28781,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28831,7 +28831,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28869,7 +28869,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "Pillar",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28907,7 +28907,7 @@
         "base_height": 11,
         "height": 12,
         "indoor": "arch",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28945,7 +28945,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -28983,7 +28983,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -29021,7 +29021,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -29059,7 +29059,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -29105,7 +29105,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -29163,7 +29163,7 @@
         "base_height": 12,
         "height": 14,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -29225,7 +29225,7 @@
         "base_height": 12,
         "height": 14,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -29291,7 +29291,7 @@
         "base_height": 12,
         "height": 14,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -29345,7 +29345,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -29423,7 +29423,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -29461,7 +29461,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -29531,7 +29531,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -29569,7 +29569,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -29639,7 +29639,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -29677,7 +29677,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -29747,7 +29747,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -29785,7 +29785,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -29855,7 +29855,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -29893,7 +29893,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -29963,7 +29963,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30001,7 +30001,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30075,7 +30075,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30113,7 +30113,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30187,7 +30187,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30225,7 +30225,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30299,7 +30299,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30337,7 +30337,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30407,7 +30407,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30445,7 +30445,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30515,7 +30515,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30553,7 +30553,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30623,7 +30623,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30661,7 +30661,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30731,7 +30731,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30769,7 +30769,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30807,7 +30807,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30877,7 +30877,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30915,7 +30915,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -30985,7 +30985,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31023,7 +31023,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31093,7 +31093,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31135,7 +31135,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31173,7 +31173,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31211,7 +31211,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31249,7 +31249,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31287,7 +31287,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31325,7 +31325,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31363,7 +31363,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31401,7 +31401,7 @@
         "base_height": 4,
         "height": 8,
         "indoor": "well",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -31431,7 +31431,7 @@
         "base_height": 8,
         "height": 10,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -31549,7 +31549,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31603,7 +31603,7 @@
         "base_height": 8,
         "height": 12,
         "indoor": "well",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -31649,7 +31649,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31687,7 +31687,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31725,7 +31725,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31763,7 +31763,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31801,7 +31801,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31839,7 +31839,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31877,7 +31877,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31915,7 +31915,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -31953,7 +31953,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -32007,7 +32007,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "Pillar",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -32045,7 +32045,7 @@
         "base_height": 8,
         "height": 8.1,
         "indoor": "ceiling",
-        "level": "3"
+        "level": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -32083,7 +32083,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -32157,7 +32157,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -32195,7 +32195,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -32277,7 +32277,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -32315,7 +32315,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -32353,7 +32353,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -32435,7 +32435,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -32473,7 +32473,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -32555,7 +32555,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -32593,7 +32593,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -32675,7 +32675,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -32713,7 +32713,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -32795,7 +32795,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -32833,7 +32833,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -32915,7 +32915,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -32953,7 +32953,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33035,7 +33035,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33073,7 +33073,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33155,7 +33155,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33193,7 +33193,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33275,7 +33275,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33313,7 +33313,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33395,7 +33395,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "Pillar",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33437,7 +33437,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "Pillar",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33479,7 +33479,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "Pillar",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33521,7 +33521,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33559,7 +33559,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33633,7 +33633,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33671,7 +33671,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33709,7 +33709,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33779,7 +33779,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33817,7 +33817,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33887,7 +33887,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33925,7 +33925,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -33995,7 +33995,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34033,7 +34033,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34103,7 +34103,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34141,7 +34141,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34211,7 +34211,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34249,7 +34249,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34319,7 +34319,7 @@
         "base_height": 15,
         "height": 16,
         "indoor": "arch",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34357,7 +34357,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34427,7 +34427,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "Pillar",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34473,7 +34473,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "Pillar",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34519,7 +34519,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "Pillar",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34565,7 +34565,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "Pillar",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34611,7 +34611,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "Pillar",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34657,7 +34657,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "Pillar",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34703,7 +34703,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "Pillar",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34749,7 +34749,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "Pillar",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34795,7 +34795,7 @@
         "base_height": 12,
         "height": 12.1,
         "indoor": "floor",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34833,7 +34833,7 @@
         "base_height": 12,
         "height": 14,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34887,7 +34887,7 @@
         "base_height": 12,
         "height": 16,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Polygon",
@@ -34929,7 +34929,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -34947,7 +34947,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -34965,7 +34965,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -34983,7 +34983,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35001,7 +35001,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35019,7 +35019,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35037,7 +35037,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35055,7 +35055,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35073,7 +35073,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35091,7 +35091,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35109,7 +35109,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35127,7 +35127,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35145,7 +35145,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35163,7 +35163,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35181,7 +35181,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35199,7 +35199,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35217,7 +35217,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35235,7 +35235,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35253,7 +35253,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35271,7 +35271,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35289,7 +35289,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35307,7 +35307,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35325,7 +35325,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35343,7 +35343,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35361,7 +35361,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35379,7 +35379,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35397,7 +35397,7 @@
         "base_height": 12,
         "height": 14,
         "indoor": "well",
-        "level": "4"
+        "level": 4
       },
       "geometry": {
         "type": "Point",
@@ -35415,7 +35415,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35433,7 +35433,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35451,7 +35451,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35469,7 +35469,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35487,7 +35487,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35505,7 +35505,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35523,7 +35523,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
@@ -35541,7 +35541,7 @@
         "base_height": 7,
         "height": 8,
         "indoor": "arch",
-        "level": "2"
+        "level": 2
       },
       "geometry": {
         "type": "Point",
